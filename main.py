@@ -1,2 +1,1 @@
 print('testng')
-print('yellow')
